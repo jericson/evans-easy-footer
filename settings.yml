@@ -1,5 +1,5 @@
 heading:
-  default: "This is a header"
+  default: "Evans Mechanical Services Inc"
   max: 25
   description:
     en: "Text for the heading in the footer - you can use your site name for example - Max length 25 characters"
