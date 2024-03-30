@@ -1,5 +1,9 @@
 {
-  "private": true,
+  "name": "evans-easy-footer",
+  "version": "1.0.0",
+  "repository": "https://github.com/discourse/Discourse-easy-footer",
+  "author": "Discourse",
+  "license": "MIT",
   "devDependencies": {
     "@discourse/lint-configs": "2.43.0",
     "@glint/ember-tsc": "1.1.1",

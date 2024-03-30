@@ -1,10 +1,10 @@
 heading:
-  default: "Evans Mechanical"
-  max: 25
+  default: "Evans Mechanical Services Inc"
+  max: 35
   description:
-    en: "Text for the heading in the footer - you can use your site name for example - Max length 25 characters"
+    en: "Text for the heading in the footer - you can use your site name for example - Max length 35 characters"
 blurb:
-  default: "Ius vitae ornatus at, ei mea sumo quot dicant. Ei tale democritum eos, in mea timeam accumsan forensibus. Ei his aperiam suavitate. Et debitis convenire sea, viris dictas latine."
+  default: "Angola, NY 14006"
   max: 180
 
 sections:
